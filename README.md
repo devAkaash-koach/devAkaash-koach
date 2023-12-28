@@ -17,8 +17,8 @@ Senior developer with on hand XP of hybrid mobile and web application developmen
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dev-akaash"><img src="https://github-readme-stats.vercel.app/api?username=dev-akaash&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="dev-akaash's GitHub stats" /></a>
+<a href="http://www.github.com/devAkaash-koach"><img src="https://github-readme-stats.vercel.app/api?username=devAkaash-koach&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="dev-akaash's GitHub stats" /></a>
 
-<a href="http://www.github.com/dev-akaash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-akaash&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/devAkaash-koach"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devAkaash-koach&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/dev-akaash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-akaash&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/devAkaash-koach" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAkaash-koach&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
